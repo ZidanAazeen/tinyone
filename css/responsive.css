@@ -1,0 +1,299 @@
+/* Extra small devices (portrait phones, less than 576px */
+
+@media (max-width: 575.98px) {
+    .navbar-custom ul li {
+        padding: 0px 0px;
+    }
+    .inspire-image {
+        margin-top: 30px;
+    }
+    .inspire-image img {
+        width: 150px;
+        margin-left: 109px;
+    }
+    .inspire-content h3 {
+        padding-top: 25px;
+    }
+    .inspire-content h3 {
+        font-size: 19px;
+    }
+    .inspire-content h5 {
+        font-size: 13px;
+    }
+    .inspire-content h5 {
+        padding-bottom: 3px;
+    }
+    .carousel-custom li {
+        width: 10px;
+        height: 10px;
+    }
+    .carousel-custom {
+        bottom: -80px;
+    }
+    #slider-part {
+        padding-bottom: 80px;
+    }
+    .inspire-content p {
+        font-size: 10px;
+    }
+    .inspire-content ul li a {
+        font-size: 25px;
+    }
+    .inspire-content ul li a {
+        padding: 0px;
+    }
+    .upper-content h3 {
+        font-size: 20px;
+    }
+    .upper-content h3 {
+        padding-top: 35px;
+    }
+    .upper-content p {
+        font-size: 10px;
+    }
+    .features-inner-content h4 {
+        font-size: 11px;
+    }
+    .features-inner-content p {
+        font-size: 6px;
+    }
+    .features-inner {
+        padding-top: 25px;
+    }
+    #feature-part {
+        padding-bottom: 35px;
+    }
+    .footer-upper h3 {
+        font-size: 20px;
+    }
+    .footer-upper p {
+        font-size: 10px;
+    }
+    .footer-upper p {
+        width: 80%;
+    }
+    .footer-upper input {
+        width: 48%;
+        padding-left: 9px;
+        font-size: 10px;
+        margin-left: 45px;
+        margin-top: 25px;
+    }
+    .btn-custom {
+        margin-bottom: -2px;
+        padding: 0px 6px;
+    }
+    .btn-custom {
+        margin-left: 6px;
+    }
+    .footer-upper ul li a {
+        font-size: 13px;
+        padding: 1px 3px;
+    }
+    .footer-upper ul li {
+        width: 12px;
+        height: 12px;
+        margin: 27px 12px;
+        margin-bottom: 51px;
+    }
+    .footer-last h5,
+    h6 {
+        font-size: 7px;
+        color: #ffffff;
+    }
+    ...
+}
+
+
+/* Small devices (landscape phones, 576px and up */
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .navbar-custom ul li {
+        padding: 0px 0px;
+    }
+    .inspire-image {
+        margin-top: 30px;
+    }
+    .inspire-content h3 {
+        font-size: 19px;
+    }
+    .inspire-content h3 {
+        padding-top: 50px;
+        padding-bottom: 5px;
+    }
+    .inspire-content h5 {
+        font-size: 13px;
+    }
+    .inspire-content h5 {
+        padding-bottom: 3px;
+    }
+    .carousel-custom li {
+        width: 10px;
+        height: 10px;
+    }
+    .carousel-custom {
+        bottom: -80px;
+    }
+    #slider-part {
+        padding-bottom: 80px;
+    }
+    .upper-content h3 {
+        padding-top: 45px;
+    }
+    .inspire-content p {
+        font-size: 10px;
+    }
+    .inspire-content ul li a {
+        font-size: 25px;
+    }
+    .inspire-content ul li a {
+        padding: 0px;
+    }
+    .upper-content h3 {
+        font-size: 22px;
+    }
+    .upper-content h3 {
+        padding-top: 35px;
+    }
+    .upper-content p {
+        font-size: 12px;
+    }
+    .features-inner-content h4 {
+        font-size: 13px;
+    }
+    .features-inner-content p {
+        font-size: 10px;
+    }
+    .features-inner {
+        padding-top: 30px;
+    }
+    #feature-part {
+        padding-bottom: 35px;
+    }
+    .footer-upper h3 {
+        font-size: 22px;
+    }
+    .footer-upper p {
+        font-size: 12px;
+    }
+    .footer-upper p {
+        color: #676767;
+        margin: auto;
+        text-align: center;
+        width: 80%;
+    }
+    .footer-upper input {
+        width: 40%;
+        padding-left: 9px;
+        font-size: 14px;
+        margin-left: 96px;
+        margin-top: 25px;
+    }
+    .btn-custom {
+        margin-bottom: 2px;
+        padding: 4px 10px;
+    }
+    .footer-upper ul li a {
+        font-size: 20px;
+        padding: 1px 6px;
+    }
+    .footer-upper ul li {
+        width: 12px;
+        height: 12px;
+        margin: 31px 36px;
+        margin-bottom: 51px;
+    }
+    .footer-last h5,
+    h6 {
+        font-size: 9px;
+        color: #ffffff;
+    }
+}
+
+
+/* Medium devices (tablets, 768px and up */
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .navbar-custom ul li {
+        padding: 0px 0px;
+    }
+    .inspire-image {
+        margin-top: 40px;
+    }
+    .inspire-content h3 {
+        font-size: 27px;
+    }
+    .inspire-content h5 {
+        font-size: 16px;
+    }
+    .inspire-content p {
+        font-size: 12px;
+    }
+    .inspire-content ul li a {
+        font-size: 35px;
+    }
+    ..upper-content h3 {
+        font-size: 28px;
+    }
+    .upper-content p {
+        font-size: 14px;
+    }
+    .features-inner-content h4 {
+        font-size: 18px;
+    }
+    .features-inner-content p {
+        font-size: 11px;
+    }
+    .features-inner {
+        padding-top: 45px;
+    }
+    #feature-part {
+        padding-bottom: 50px;
+    }
+    .footer-upper h3 {
+        font-size: 26px;
+    }
+    .footer-upper p {
+        font-size: 14px;
+    }
+    .footer-upper input {
+        width: 38%;
+        padding-left: 14px;
+        font-size: 16px;
+        margin-left: 154px;
+        margin-top: 25px;
+    }
+    .btn-custom {
+        margin-bottom: 3px;
+        padding: 5px 16px;
+    }
+    .footer-upper ul li a {
+        font-size: 21px;
+        padding: 1px 7px;
+    }
+    .footer-upper ul li {
+        width: 12px;
+        height: 12px;
+        margin: 40px 36px;
+        margin-bottom: 70px;
+    }
+    .footer-last h5,
+    h6 {
+        font-size: 11px;
+        color: #ffffff;
+    }
+}
+
+
+/* Large devices (desktops, 992px and up */
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    .footer-upper input {
+        margin-left: 208px;
+    }
+}
+
+
+/* Extra large devices (large desktops, 1200px and up */
+
+@media (min-width: 1200px) {}
